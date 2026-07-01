@@ -123,7 +123,7 @@
 
 🚀 **Hugging Face Spaces 在线体验**
 
-[https://huggingface.co/spaces/你的用户名/audit-demo](https://huggingface.co/spaces/你的用户名/audit-demo)
+coming soon
 
 > **演示版限制说明**：
 > - 单次最多上传 100 条标注数据
@@ -135,22 +135,7 @@
 
 ## 快速开始
 
-### 5 分钟快速体验
-
-```bash
-# 克隆仓库
-git clone https://github.com/你的用户名/data-annotation-quality-audit.git
-cd data-annotation-quality-audit
-
-# 安装依赖
-pip install -r requirements.txt
-
-# 运行完整流水线（使用内置示例数据）
-python pipeline.py --test --skip-llm
-
-# 运行 Web 演示版
-python app.py
-```
+release下载即可
 
 ### 环境要求
 
